@@ -1,5 +1,3 @@
-根据您的环境配置，我来更新README文档：
-
 # Plant Nucleotide Transformer Prediction Tool
 
 A specialized PyTorch implementation for plant genomic sequence classification using the Nucleotide Transformer model, with local prediction capabilities optimized for plant biology research.
